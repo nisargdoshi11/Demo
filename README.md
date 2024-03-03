@@ -1,2 +1,2 @@
 # Demo
-This is Demo/Testing of Git &amp; GitHub
+This is Demo/Testing of Git &amp; GitHub.
